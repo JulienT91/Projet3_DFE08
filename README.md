@@ -1,2 +1,2 @@
-# Projet3DFE08
- Site d'actualité en HTML CSS (utilisation de bootstrap)  JS
+# Projet3_DFE08
+Site d'actualité en HTML CSS JS
