@@ -6,3 +6,9 @@
   margin: 0;
   font-family: "Josefin Sans", sans-serif;
 }
+
+/*img opacity*/
+
+.opacity-img {
+  opacity: 0.8;
+}
