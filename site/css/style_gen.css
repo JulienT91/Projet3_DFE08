@@ -6,7 +6,17 @@
   margin: 0;
   font-family: "Josefin Sans", sans-serif;
 }
-
+/*text-shadow*/
+.t-shadow {
+  text-shadow: 0 0 #000;
+}
+/*before after*/
+.pipe-b-a::before {
+  content: "|";
+}
+.pipe-b-a::after {
+  content: "|";
+}
 /*img opacity*/
 
 .opacity-img {
